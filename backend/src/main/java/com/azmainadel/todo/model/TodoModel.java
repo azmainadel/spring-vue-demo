@@ -2,7 +2,7 @@ package com.azmainadel.todo.model;
 
 //
 // Created by Azmain Adel on 6/25/20.
-// Copyright (c) 2020 Field Buzz. All rights reserved.
+
 //
 
 import org.springframework.data.annotation.Id;

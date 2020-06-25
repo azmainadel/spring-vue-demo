@@ -2,7 +2,7 @@ package com.azmainadel.todo.controller;
 
 //
 // Created by Azmain Adel on 6/25/20.
-// Copyright (c) 2020 Field Buzz. All rights reserved.
+
 //
 
 import com.azmainadel.todo.model.TodoModel;

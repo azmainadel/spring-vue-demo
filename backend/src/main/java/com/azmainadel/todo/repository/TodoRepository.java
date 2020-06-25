@@ -1,9 +1,7 @@
 package com.azmainadel.todo.repository;
 
-//
-// Created by Azmain Adel on 6/25/20.
-// Copyright (c) 2020 Field Buzz. All rights reserved.
-//
+//   Created by Azmain Adel on 6/25/20.
+
 
 import com.azmainadel.todo.model.TodoModel;
 import org.springframework.data.mongodb.repository.MongoRepository;
